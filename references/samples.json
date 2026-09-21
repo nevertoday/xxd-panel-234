@@ -5,7 +5,7 @@
   "samples": [
     {
       "file": "assets/examples/sample-05.png",
-      "sha256": "21e08881d235b0e123cdb8e59fd26ce1558c3e92cc912407e0b14b37372a95ab",
+      "sha256": "265b13b129cbfa511e291a732fd20ecb1365c3e0a46ef1d7d1a853c7c576188d",
       "width": 1536,
       "height": 864,
       "mode": "left-right",
@@ -14,7 +14,7 @@
     },
     {
       "file": "assets/examples/sample-06.png",
-      "sha256": "dd0ed715a24e18196f66b6a49ea79b79773077f508e6ef0a6ef4dfccc139d446",
+      "sha256": "2c8eaefb8215ece6dde3d2d611f9f9ec5848d5de563ee7e976931b2108b149c3",
       "width": 1536,
       "height": 864,
       "mode": "left-right",
@@ -23,7 +23,7 @@
     },
     {
       "file": "assets/examples/sample-07.png",
-      "sha256": "062bbd8c5fdc3be4a9ea9e1cad23fd958f4b2d1ff88eee68a53d1258e1f4d95b",
+      "sha256": "0360b1ec7e2f2fc3d027896e0a503f631982345286c12744392a74aa0be706c5",
       "width": 1536,
       "height": 864,
       "mode": "left-right",
@@ -32,7 +32,7 @@
     },
     {
       "file": "assets/examples/sample-08.png",
-      "sha256": "0b96d5c615a109b2eaf511cbce91a919656d674815fa99e40a3b9d9b564df204",
+      "sha256": "741aaa167d2dc2f0931841a00d07e56e70cfe0ff386903c0a701819f798b77c8",
       "width": 1536,
       "height": 864,
       "mode": "left-right",
@@ -41,7 +41,7 @@
     },
     {
       "file": "assets/examples/sample-09.png",
-      "sha256": "9a77bbfd52eee01bdb7b0570d88899664a8bf113f441fb5a15e3f5fa31a835ae",
+      "sha256": "08336a812857795b069d2052f68fc8177fd35cd94c8294f32510579a755339f9",
       "width": 1152,
       "height": 1536,
       "mode": "top-bottom",
@@ -50,7 +50,7 @@
     },
     {
       "file": "assets/examples/sample-10.png",
-      "sha256": "17745a27bca43e06ac14a560fa16654140529708180b0ec343424121c72c61f5",
+      "sha256": "caf1b8b005f12586f30a768e928975510811ab6ff3d4d469a2118cca9f3d4eab",
       "width": 1152,
       "height": 1536,
       "mode": "top-bottom",
@@ -59,7 +59,7 @@
     },
     {
       "file": "assets/examples/sample-11.png",
-      "sha256": "d7d5d5b330e02d1805294dfe4ecff84e26d4a78137afada2826ce807543484b7",
+      "sha256": "274bca52563ebc022d8678765782e86af9bb56729081d75880b365f99ad9b1b2",
       "width": 1152,
       "height": 1536,
       "mode": "top-bottom",
@@ -68,7 +68,7 @@
     },
     {
       "file": "assets/examples/sample-12.png",
-      "sha256": "0519b59a5c99cffecaa948c8ce84d13a11c4653109dbdcbafea30b4adffc1b2d",
+      "sha256": "8104b86efd9e19178f47174f080ab31cc94140d30a3a207bfdb8d1f0dfae2033",
       "width": 1152,
       "height": 1536,
       "mode": "top-bottom",
