@@ -60,7 +60,7 @@ Youthful, intelligent and slightly playful. Technology stays warm rather than cy
 Install from GitHub:
 
 ```bash
-npx skills add https://github.com/nevertoday/xxd-panel-234 --skill xxd-panel-234
+npx skills add https://github.com/xiaoxiaodong-ai/xxd-panel-234 --skill xxd-panel-234
 ```
 
 Restart the agent session after installation, then invoke `$xxd-panel-234`. Add `--global --agent codex --yes` when a user-level Codex installation is wanted.
