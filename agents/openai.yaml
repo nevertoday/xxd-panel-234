@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 234"
-  short_description: "数字编辑主视觉：上半保留原照，下半收成圆角模块与纯色块的编辑主视觉"
-  default_prompt: "Use $xxd-panel-234 to transform my photograph following the complete canonical source brief."
+  short_description: "数字编辑主视觉：把照片收成纯色块、圆角模块、细线和大留白组成的年轻主视觉"
+  default_prompt: "Use $xxd-panel-234 to turn my photo into Digital Editorial Key Visual artwork."

@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-234
-description: "Create XXD Panel 234 raster artwork: a faithful photograph paired with a youthful graphic key visual of flat colour planes, fine lines, a few rounded editorial modules and abundant warm-white space, warm rather than cybernetic. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-234 or asks for this 数字编辑主视觉 style."
+description: "XXD Panel 234｜Digital Editorial Key Visual: rebuilds a photo's subject as a young, modern graphic key visual with a digital-editorial feel — large flat matte colour planes, simplified outlines, fine lines and geometric symbols, almost no shading — placed as the single focus on an asymmetric modular grid with a few rounded cards, cropped frames, hairlines, tiny icons or info fragments, set against wide warm-white space; colours are the liveliest ones in the photo brightened into one or two main colours plus one support and a small accent, and short text in a small narrow sans-serif or light monospace is aligned to edges, set vertically or slightly rotated. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-234 or asks for flat editorial key visuals, digital-magazine or creative-tool brand graphics from a photo."
 ---
 
 # XXD Panel 234

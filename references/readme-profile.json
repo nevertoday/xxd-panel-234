@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 234｜Digital Editorial Key Visual: rebuilds a photo's subject as a young, modern graphic key visual with a digital-editorial feel — large flat matte colour planes, simplified outlines, fine lines and geometric symbols, almost no shading — placed as the single focus on an asymmetric modular grid with a few rounded cards, cropped frames, hairlines, tiny icons or info fragments, set against wide warm-white space; colours are the liveliest ones in the photo brightened into one or two main colours plus one support and a small accent, and short text in a small narrow sans-serif or light monospace is aligned to edges, set vertically or slightly rotated. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-234 or asks for flat editorial key visuals, digital-magazine or creative-tool brand graphics from a photo.",
+  "short_description": "数字编辑主视觉：把照片收成纯色块、圆角模块、细线和大留白组成的年轻主视觉",
+  "zh-CN": {
+    "name": "数字编辑主视觉",
+    "tagline": "把照片收成一张年轻的数字编辑主视觉：纯色块、圆角模块、细线和大留白。",
+    "look": "照片主体被概括成大块哑光纯色、简化轮廓、纤细描线和几何符号，几乎不用明暗，是干净的平面矢量感。它是画面唯一的核心，周围只放少量圆角卡片、局部裁切框、细线、小图标或信息片段，排在不对称的模块网格上，大片安静的暖白和局部密集的小模块形成对比。颜色取照片里最鲜活的颜色并提亮，约一到两个主色、一个辅助色和极少点睛色，如天空蓝、湖水青、嫩绿、暖黄、珊瑚橙、桃粉。文字是小而清楚的窄体无衬线或轻量等宽字，靠边对齐、竖排或局部旋转。",
+    "traits": [
+      "扁平色块",
+      "圆角模块",
+      "编辑网格",
+      "明快取色",
+      "窄体无衬线",
+      "大留白"
+    ],
+    "good": [
+      "主体形状清楚的照片：一个人、一只猫、一个耳机、一盆植物",
+      "有现代生活或工作气息的画面：骑车通勤、一台笔记本、一杯咖啡",
+      "想做品牌练习、数字杂志封面、App 宣传图或展览图形的照片"
+    ],
+    "poor": [
+      "需要写实质感或细腻光影的照片：人像皮肤、美食特写、风景氛围",
+      "需要承载大量信息的界面或说明图，这里只放几片小信息模块",
+      "想要复杂阴影、渐变光效、游戏界面或卡通贴纸风的需求"
+    ]
+  },
+  "en": {
+    "name": "Digital Editorial Key Visual",
+    "tagline": "Turns a photo into a youthful digital-editorial key visual: flat colour, rounded modules, fine lines.",
+    "look": "Your subject is reduced to large matte flat colour planes, simplified outlines, fine lines and geometric symbols, with almost no shading, in a clean flat-vector manner. It is the single focus, with only a few rounded cards, cropped frames, hairlines, tiny icons or snippets of information around it on an asymmetric modular grid, so wide, calm warm white contrasts with small dense clusters. Colours are the liveliest ones in the photo, brightened into one or two main colours, one support colour and a tiny accent, such as sky blue, lake teal, fresh green, warm yellow, coral and peach. Text is small and clear, in a narrow sans-serif or light monospace, aligned to edges, set vertically or slightly rotated.",
+    "traits": [
+      "Flat colour planes",
+      "Rounded modules",
+      "Editorial grid",
+      "Bright colour",
+      "Narrow sans-serif",
+      "Open white space"
+    ],
+    "good": [
+      "Photos with a clearly shaped subject: a person, a cat, a pair of headphones, a potted plant",
+      "Scenes with a modern work or life feel: cycling to work, a laptop, a cup of coffee",
+      "Photos you want for a brand exercise, a digital-magazine cover, an app promo image or an exhibition graphic"
+    ],
+    "poor": [
+      "Photos that rely on realistic texture or delicate light: skin, food close-ups, atmospheric landscapes",
+      "Interfaces or diagrams that must carry lots of information, since only a few small modules appear",
+      "Requests for complex shadows, glowing gradients, a game interface or cartoon stickers"
+    ]
+  },
+  "ja": {
+    "name": "デジタル編集のキービジュアル",
+    "tagline": "写真を、平らな色面、角丸モジュール、細い線、広い余白でできた若々しいキービジュアルにします。",
+    "look": "主役を、マットで大きな平らな色面、簡略化した輪郭、細い線、幾何記号にまとめます。陰影はほとんどなく、すっきりしたフラットなベクターの質感です。主役が唯一の中心で、まわりには角丸のカード、部分的なトリミング枠、細線、小さなアイコン、情報の断片が少しだけ非対称なモジュールグリッドに並び、広く静かな暖かい白と、一部に密集した小さなモジュールが対比をつくります。色は写真でいちばん生き生きした色を明るくし、主色一〜二色、補助色一色、ごく少しの差し色で、空色、湖の青緑、若草色、暖かい黄、コーラル、ピーチなど。文字は小さくはっきりした幅狭のサンセリフか細めの等幅書体で、端揃え、縦組み、部分的な回転で置かれます。",
+    "traits": [
+      "フラットな色面",
+      "角丸モジュール",
+      "編集グリッド",
+      "明るい色",
+      "幅狭のサンセリフ",
+      "広い余白"
+    ],
+    "good": [
+      "主役の形がはっきりした写真：人物、猫、ヘッドホン、鉢植え",
+      "現代の仕事や暮らしの気配がある場面：自転車通勤、ノートパソコン、一杯のコーヒー",
+      "ブランドの習作、デジタル雑誌の表紙、アプリの宣伝画像、展示グラフィックにしたい写真"
+    ],
+    "poor": [
+      "写実的な質感や繊細な光が魅力の写真：肌、料理のアップ、空気感のある風景",
+      "たくさんの情報を載せる画面や説明図（小さな情報モジュールが少し入るだけです）",
+      "複雑な影、光るグラデーション、ゲーム画面、アニメ風ステッカーを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "디지털 에디토리얼 키 비주얼",
+    "tagline": "사진을 평평한 색면, 둥근 모듈, 가는 선, 넓은 여백으로 이루어진 젊은 키 비주얼로 담습니다.",
+    "look": "주인공을 무광의 큰 평면 색면, 단순화한 윤곽, 가는 선, 기하 기호로 정리합니다. 명암은 거의 없고 깔끔한 플랫 벡터 느낌입니다. 주인공이 유일한 중심이며, 주변에는 둥근 카드, 부분 크롭 프레임, 가는 선, 작은 아이콘, 정보 조각이 비대칭 모듈 그리드 위에 조금만 놓여, 넓고 조용한 따뜻한 흰색과 일부에 모인 작은 모듈이 대비를 이룹니다. 색은 사진에서 가장 생기 있는 색을 밝게 다듬어 주색 한두 가지, 보조색 하나, 아주 적은 포인트 색으로 쓰며 하늘색, 호수 청록, 연두, 따뜻한 노랑, 산호색, 복숭아색 등입니다. 글자는 작고 또렷한 좁은 산세리프나 가벼운 고정폭 서체로, 가장자리 정렬, 세로쓰기, 부분 회전으로 놓입니다.",
+    "traits": [
+      "평면 색면",
+      "둥근 모듈",
+      "에디토리얼 그리드",
+      "밝은 색",
+      "좁은 산세리프",
+      "넓은 여백"
+    ],
+    "good": [
+      "주인공의 형태가 뚜렷한 사진: 사람, 고양이, 헤드폰, 화분",
+      "현대적인 일과 생활의 느낌이 있는 장면: 자전거 출근, 노트북, 커피 한 잔",
+      "브랜드 연습, 디지털 매거진 표지, 앱 홍보 이미지, 전시 그래픽으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "사실적인 질감이나 섬세한 빛이 매력인 사진: 피부, 음식 클로즈업, 분위기 있는 풍경",
+      "많은 정보를 담아야 하는 화면이나 설명도(작은 정보 모듈이 몇 개 들어갈 뿐입니다)",
+      "복잡한 그림자, 빛나는 그러데이션, 게임 화면, 만화 스티커를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "صورة رئيسية تحريرية رقمية",
+    "tagline": "يحوّل الصورة إلى صورة رئيسية شابة بروح التحرير الرقمي: ألوان مسطّحة ووحدات مستديرة الزوايا وخطوط رفيعة وفراغ واسع.",
+    "look": "يُختزل العنصر الرئيسي إلى مساحات لونية مسطّحة كبيرة غير لامعة وحدود مبسّطة وخطوط رفيعة ورموز هندسية، بلا تظليل تقريباً، بأسلوب متجهي مسطّح نظيف. هو البؤرة الوحيدة، ولا يحيط به إلا قليل من البطاقات مستديرة الزوايا والإطارات المقتطعة والخطوط الشعرية والأيقونات الصغيرة ومقتطفات المعلومات، على شبكة وحدات غير متناظرة، فيتقابل الأبيض الدافئ الواسع الهادئ مع تجمعات صغيرة كثيفة. الألوان هي أكثر ألوان الصورة حيوية بعد تفتيحها: لون أو لونان رئيسيان ولون مساعد ولمسة صغيرة، مثل أزرق السماء وفيروزي البحيرة والأخضر الطري والأصفر الدافئ والمرجاني والخوخي. والنص صغير واضح، بخط ضيق بلا زوائد أو خط أحادي المسافة خفيف، محاذى إلى الحواف أو عمودي أو مدار قليلاً.",
+    "traits": [
+      "مساحات لونية مسطّحة",
+      "وحدات مستديرة الزوايا",
+      "شبكة تحريرية",
+      "ألوان زاهية",
+      "خط ضيق بلا زوائد",
+      "فراغ أبيض واسع"
+    ],
+    "good": [
+      "صور فيها عنصر واضح الشكل: شخص، قطة، سماعات رأس، نبتة في أصيص",
+      "مشاهد بروح العمل والحياة العصرية: الذهاب إلى العمل بالدراجة، حاسوب محمول، فنجان قهوة",
+      "صور تريدها تمريناً على هوية علامة أو غلاف مجلة رقمية أو صورة ترويجية لتطبيق أو تصميماً لمعرض"
+    ],
+    "poor": [
+      "صور تعتمد على الملمس الواقعي أو الضوء الرقيق: البشرة، الطعام عن قرب، المناظر ذات الأجواء",
+      "واجهات أو مخططات يجب أن تحمل معلومات كثيرة، إذ لا تظهر إلا وحدات صغيرة قليلة",
+      "طلب ظلال معقدة أو تدرجات متوهجة أو واجهة لعبة أو ملصقات كرتونية"
+    ]
+  }
+}
